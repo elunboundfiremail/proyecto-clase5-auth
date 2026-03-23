@@ -1,0 +1,9 @@
+[Aa]pp[Ss]ettings.Development.json
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+Migrations/
+node_modules/
+.env
