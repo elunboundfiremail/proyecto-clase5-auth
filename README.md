@@ -13,12 +13,10 @@ Implementación de un sistema de autenticación y autorización utilizando una A
 * **Base de Datos:** PostgreSQL
 * **Autenticación:** Keycloak (OAuth 2.0 / OpenID Connect)
 * **Contenedores:** Docker, Docker Compose
-* **Frontend:** Angular 
 
 ## Requisitos Previos
 * Docker y Docker Compose
 * .NET 9.0 SDK
-* Node.js y Angular CLI
 
 ## Instrucciones de Configuración y Ejecución
 
